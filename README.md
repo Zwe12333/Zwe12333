@@ -1,4 +1,4 @@
-🌟 Hlangalezwe Prince Zulu
+🌟 Hlangalezwe Zulu
 👨‍💻 Data Science & Cloud Computing Enthusiast | Aspiring Software & AI Engineer
 
 Hi! I'm a passionate Data Science intern and cloud-focused developer with experience in machine learning, analytics, and full-stack development. I enjoy building impactful projects, exploring cloud technologies, and solving real-world problems using data.
