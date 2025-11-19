@@ -14,11 +14,6 @@ JobConnect Platform – Full-stack job-matching app (React + Node.js + MongoDB)
 
 Sales Prediction Model – Linear regression for marketing optimization
 
-
-Cisco Python & Cybersecurity
-
-Cybersecurity
-
 📫 Connect With Me
 
 🔗 Portfolio: hlanga-zulu.lovable.app
