@@ -1,17 +1,8 @@
 🌟 Hlangalezwe Zulu
 👨‍💻 Data Science & Cloud Computing Enthusiast | Aspiring Software & AI Engineer
 
-Hi! I'm a passionate Data Science intern and cloud-focused developer with experience in machine learning, analytics, and full-stack development. I enjoy building impactful projects, exploring cloud technologies, and solving real-world problems using data.
+Hi! I'm a passionate Data Science intern and cloud-focused developer with experience in machine learning, analytics, and full-stack development. I enjoy building impactful projects, exploring cloud technologies
 
-🧠 Core Skills
-
-Programming: Python, SQL, JavaScript, C++
-
-Data Tools: Power BI, Excel, scikit-learn, Matplotlib, Colab
-
-Cloud: Oracle Cloud Infrastructure, AWS S3
-
-Other: GitHub, APIs, Agile, SDLC
 
 🚀 Highlighted Projects
 
@@ -23,13 +14,6 @@ JobConnect Platform – Full-stack job-matching app (React + Node.js + MongoDB)
 
 Sales Prediction Model – Linear regression for marketing optimization
 
-🎓 Certifications
-
-OCI Data Science Professional
-
-Oracle APEX Developer
-
-Forage: British Airways & Skyscanner Job Simulations
 
 Cisco Python & Cybersecurity
 
